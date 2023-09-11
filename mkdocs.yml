@@ -9,6 +9,17 @@ nav:
   - 首页: index.md
   - 助教版:
     - ta/index.md
+    - 重修 markdown！:
+      - ta/markdown/index.md
+      - 常见错误用法集锦: ta/markdown/syntax.md
+      - 其他编写建议: ta/markdown/suggestions.md
+    - 去读 material 文档！:
+      - ta/material/index.md
+      - material 主题使用拾遗: ta/material/usage.md
+    - 多少学点排版:
+      - ta/typesetting/index.md
+      - 标点符号的使用: ta/typesetting/punctuation.md
+      - 更多排版建议: ta/typesetting/suggestions.md
   - 学生版:
     - stu/index.md
 
@@ -24,7 +35,8 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.footer
-    - navigation.sections
+    - navigation.indexes
+    - navigation.expand
   font:
     code: JetBrains Mono
   palette:
