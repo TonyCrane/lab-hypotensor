@@ -13,9 +13,11 @@ nav:
       - ta/markdown/index.md
       - 常见错误用法集锦: ta/markdown/syntax.md
       - 其他编写建议: ta/markdown/suggestions.md
-    - 去读 material 文档！:
-      - ta/material/index.md
-      - material 主题使用拾遗: ta/material/usage.md
+    - 去读各个文档！:
+      - ta/rtfm/index.md
+      - mkdocs 配置拾遗: ta/rtfm/mkdocs.md
+      - material 主题使用拾遗: ta/rtfm/material.md
+      - markdown 扩展配置拾遗: ta/rtfm/markdown.md
     - 多少学点排版:
       - ta/typesetting/index.md
       - 标点符号的使用: ta/typesetting/punctuation.md
