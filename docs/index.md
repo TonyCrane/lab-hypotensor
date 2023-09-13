@@ -1,5 +1,10 @@
 # 实验文档降压宝典
 
+> 一位助教写出了一份十分不规范的实验指导手册，这是做他实验的学生身体发生的变化。
+>
+> Hypo meaning low, tensor meaning blood pressure.   
+> lab-hypotensor is aimed to help lower the blood pressure of the students who are doing the expriments.
+
 ## 这份文档是什么？
 
 一句话概括：是针对计算机类实验指导网站的规范化编写指南，旨在从文档层面提升学生们做实验的体验。
