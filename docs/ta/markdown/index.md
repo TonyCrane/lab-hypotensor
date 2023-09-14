@@ -20,3 +20,4 @@ markdown 的好处是它用法简单，坏处也是它用法简单，初代版�
 
 - 笔者的[实用工具拾遗课程第三讲：Markdown 语法及应用](https://slides.tonycrane.cc/PracticalSkillsTutorial/lec3/)
 - [CommonMark 规范](https://spec.commonmark.org/current/)可参考
+- [markdownlint 的 RULES 描述](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md)可供规范化学习参考
