@@ -1,3 +1,4 @@
 mkdocs
 mkdocs-material
 mkdocs-heti-plugin
+mkdocs-statistics-plugin

@@ -47,6 +47,7 @@ theme:
 
 plugins:
   - search
+  - statistics
   - heti:
       extra_skipped_class:
         - arithmatex
