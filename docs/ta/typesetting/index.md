@@ -10,3 +10,8 @@
 
 - [标点符号的使用](punctuation/)
 - [更多排版建议](suggestions/)
+
+## 更多参考
+
+- W3C i18n WG: [中文排版需求](https://www.w3.org/International/clreq/)
+- [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
