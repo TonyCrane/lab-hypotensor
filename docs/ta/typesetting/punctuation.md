@@ -190,9 +190,9 @@
 对于括号：
 
 - 如果括号内都是英文，则**可以**使用半角括号，但要注意括号两侧要加半角空格
-    - ⭕️ 中文排版需求 (CLReq) 中写道
+    - ⭕️ <span class="heti-skip">中文排版需求 (CLReq) 中写道</span>
     - ⭕️ 中文排版需求（CLReq）中写道（也可以统一用全角括号）
-    - ❌ 中文排版需求(CLReq)中写道
+    - ❌ <span class="heti-skip">中文排版需求(CLReq)中写道</span>
 - 一旦括号内出现中文，则**需要**使用全角括号，且括号两侧不要加空格
     - ⭕️ CLReq（Requirements of Chinese Text Layout，中文排版需求）中写道
     - ❌ CLReq <span class="heti-skip">(Requirements of Chinese Text Layout，中文排版需求) </span>中写道
