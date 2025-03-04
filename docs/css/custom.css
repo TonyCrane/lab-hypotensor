@@ -47,3 +47,6 @@ h6:before {
 .md-typeset kbd {
   padding: 0 0.5em;
 }
+body {
+  text-spacing-trim: space-all;
+}
